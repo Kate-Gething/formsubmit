@@ -1,0 +1,18 @@
+
+.contactform {
+  background-color: #84a9ac;
+  color: white;
+  font-family: Montserrat;
+  padding: 1% 5% 3% 5%;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.form-group {
+  padding: 0 5% 0 5%;
+  color: white;
+}
+.formbtn {
+  padding-top: 20px;
+  text-align: center;
+}
